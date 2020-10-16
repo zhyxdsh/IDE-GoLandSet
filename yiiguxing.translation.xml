@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="destination," />
+      <item value="UNIQUE constraint failed: ind_product_render_template.render_template_id" />
+      <item value=" UNIQUE constraint failed: ind_product_render_template.render_template_id " />
       <item value="Update Product Info Response" />
     </histories>
     <option name="languageScores">
