@@ -1,0 +1,34 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="GOROOT" path="/usr/local/go" />
+      <component name="GitToolBoxStore">
+        <option name="projectConfigVersion" value="2" />
+      </component>
+      <component name="ProjectTasksOptions">
+        <enabled-global>
+          <option value="bgolint" />
+          <option value="go fmt" />
+        </enabled-global>
+      </component>
+      <component name="PropertiesComponent">
+        <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+        <property name="configurable.Project.GOPATH.is.expanded" value="true" />
+        <property name="go.import.settings.migrated" value="true" />
+        <property name="settings.editor.selected.configurable" value="configurable.group.other" />
+      </component>
+      <component name="SaveActionSettings">
+        <option name="actions">
+          <set>
+            <option value="activate" />
+            <option value="organizeImports" />
+            <option value="reformat" />
+          </set>
+        </option>
+      </component>
+      <component name="ThriftCompiler">
+        <compilers />
+      </component>
+    </defaultProject>
+  </component>
+</application>
