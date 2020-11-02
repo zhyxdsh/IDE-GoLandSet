@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Original" />
+      <item value="appreciate" />
       <item value="assembly" />
       <item value="destination," />
       <item value="UNIQUE constraint failed: ind_product_render_template.render_template_id" />
