@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="duplicate" />
       <item value="Deprecated" />
       <item value="Inspection" />
       <item value="It returns the number of bytes written and any write error encountered." />
