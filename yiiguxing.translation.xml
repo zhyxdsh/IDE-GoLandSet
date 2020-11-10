@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="record not found error, happens when haven't find any matched data when looking up with a struct" />
       <item value="duplicate" />
       <item value="Deprecated" />
       <item value="Inspection" />
